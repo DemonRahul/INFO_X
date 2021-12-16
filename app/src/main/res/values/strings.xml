@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">INFO_X</string>
+
+
+    <string name="Home">Home</string>
+    <string name="Science">Science</string>
+    <string name="Sports">Sports</string>
+    <string name="Health">Health</string>
+    <string name="Enter">Entertainment</string>
+
+
+
+</resources>
